@@ -1,4 +1,5 @@
 # AWQ-LLM-Quantization
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/archanareddy3640/AWQ-LLM-Quantization/blob/main/awq_quantization.ipynb)
 # Activation-Aware Weight Quantization (AWQ)
 
 ## Overview
